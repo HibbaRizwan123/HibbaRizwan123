@@ -1,6 +1,7 @@
-## AI Engineer | Python
+<h1 align="center">AI Engineer | Python</h1>
 
--🙋‍♀️About Me
+<h2><strong>🙋‍♀️ About Me</strong></h2>
+
 
 <!--
 **HibbaRizwan123/HibbaRizwan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
