@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hibba Rizwan 👋</h1>
-<h2 align="center">AI Engineer | Python | Machine Learning</h2>
+<h2 align="center">AI Engineer | Backend Developer | Python | Machine Learning</h2>
 
 <h3>🙋‍♀️ About Me</h3>
 <hr>
