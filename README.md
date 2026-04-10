@@ -32,6 +32,8 @@ I specialize in <strong>backend development</strong> using Python and FastAPI, w
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br>
       <sub>Pandas</sub>
     </td>
+    <td align="center" width="90"> <sub>LangChain</sub> </td>
+
   </tr>
   <tr>
     <td align="center" width="90">
@@ -54,6 +56,9 @@ I specialize in <strong>backend development</strong> using Python and FastAPI, w
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/><br>
       <sub>Postman</sub>
     </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/><br> 
+      <sub>Streamlit</sub> </td>
   </tr>
 </table>
 
